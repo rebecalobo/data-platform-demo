@@ -1,0 +1,12 @@
+pandas
+pyarrow
+fastparquet
+clickhouse-driver
+clickhouse-connect
+gspread
+google-auth
+google-auth-oauthlib
+requests
+sqlalchemy
+openpyxl
+python-dateutil
