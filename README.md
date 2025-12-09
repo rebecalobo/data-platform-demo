@@ -1,4 +1,6 @@
-# data-platform-demo
+# Data Pipeline Saúde
+
+O objetivo é demonstrar competências práticas em ETL/ELT, extração via API, ingestão de arquivos, tratamento e padronização de dados em larga escala com PySpark, modelagem de Data Warehouse, orquestração com Airflow e empacotamento com Docker.
 
 Fluxo principal:
 
